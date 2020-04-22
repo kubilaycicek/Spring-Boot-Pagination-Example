@@ -12,7 +12,8 @@ This is a spring boot application.Pagination example.
 ### API
 | Route  | HTTP Verb  |POST Body   |Description   |
 |---|---|---|---|
-| http://localhost:8080/customer/list?pageSize=5&page=0  |`GET`   |  Empty | List All Notes    
+| http://localhost:8080/customer/list?pageSize=5&page=0  |`GET`   |  Empty | Pagination
+| http://localhost:8080/customer/slice/list?pageSize=5&page=0  |`GET`   |  Empty | Slice  
 
 ### Response
 
