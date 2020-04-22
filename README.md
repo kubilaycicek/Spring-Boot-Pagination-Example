@@ -7,7 +7,7 @@ This is a spring boot application.Pagination example.
    "id": 1,
    "name": "Lebron",
    "surname": "James"
-        }
+}
 ```
 ### API
 | Route  | HTTP Verb  |POST Body   |Description   |
